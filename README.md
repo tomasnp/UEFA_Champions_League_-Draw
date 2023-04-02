@@ -1,4 +1,4 @@
-# UEFA_Champions_League_Draw
+# UEFA Champions League Draw
 
 **UEFA Champions League Draw is an academic project in C++ at the University of Paris-Saclay.**
 
